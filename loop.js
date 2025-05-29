@@ -1,3 +1,4 @@
+// This is a simple while loop
 let a = function(){
 
     let num = 5;
